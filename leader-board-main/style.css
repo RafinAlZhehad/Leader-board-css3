@@ -52,3 +52,38 @@ hr{
     margin-left: 16px;
     font-size: 18px;
 }
+
+/* top blogs styles' */
+ .blog .tumbnail img{
+    width: 177px;
+    height: 117px;
+}
+.blog{
+
+
+    display: flex;
+}
+.blog-info{
+    margin-left: 16px;
+}
+.blog-tittle{
+    font size: 20px;
+}
+.blog-author{
+    color: #9F9F9F;
+    font-size: 16px;
+
+}
+.blog-author a {
+    color: #562EFF;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
