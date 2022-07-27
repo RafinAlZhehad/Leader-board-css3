@@ -88,6 +88,27 @@ hr{
     text-decoration: none;
 }
 
+/* courses style........  */
+.course-info{
+    
+    display: flex;
+}
+
+.course .course-banner img{
+    width: 224px;
+    height: 105px;
+}
+.fa-star{
+    font-size: 12px;
+}
+.fa-star.filled{
+    color: #FFC014;
+}
+.fa-star.empty{
+    color: #AEAEAE;
+}
+
+
 
 
 
