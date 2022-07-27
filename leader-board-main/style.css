@@ -89,9 +89,16 @@ hr{
 }
 
 /* courses style........  */
+.courses{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-column-gap: 24px;
+}
 .course-info{
     
     display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
 .course .course-banner img{
